@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=164B63&multiline=true&width=453&height=100&lines=HackerRepo.org+;Cybersecurity+Resources)](https://git.io/typing-svg)
 
-This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources. It is carefully curated and maintained by [400](https://github.com/shivamrajputa400).
+This repository is a comprehensive collection of cybersecurity-related references, scripts, tools, code, and other resources. It is carefully curated and maintained by [400](https://github.com/shivamrajputa400) and [Omar Santos](https://www.linkedin.com/in/santosomar/).
 
 ## Overview
 The repository serves as a supplemental material provider to several books, video courses, and live training created by Omar Santos. It encompasses over 10,000 references that are instrumental for both offensive and defensive security professionals in honing their skills.
